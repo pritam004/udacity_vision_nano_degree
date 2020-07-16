@@ -32,3 +32,13 @@ I will add as and when I do it
 4. Haar Cascades and object recognition (multiple face detection in an image )
 
 ## week 3 Types of Features & Image Segmentation
+
+1. Harris Corner Detection
+
+2. dialation
+
+3. errotion
+
+4. contours [boundary and angles]
+
+5. kmeans for segmentation
