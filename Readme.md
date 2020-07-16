@@ -17,7 +17,9 @@ I will add as and when I do it
 
 ## 2nd week  Convolutional Filters and Edge Detection
 
-1. Filters 
+1. Fast Fourrier Tranform (frequency domain)
+
+2. Filters 
 
     a. sobel filters (detecting edges and direction)
 
@@ -25,11 +27,11 @@ I will add as and when I do it
 
     c. laplacian (high pass filter)
 
-2. Canny edge detector [notes in copy]
+3. Canny edge detector [notes in copy]
 
-3. Hough transform (line detector)
+4. Hough transform (line detector)
 
-4. Haar Cascades and object recognition (multiple face detection in an image )
+5. Haar Cascades and object recognition (multiple face detection in an image )
 
 ## week 3 Types of Features & Image Segmentation
 
