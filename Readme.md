@@ -6,7 +6,7 @@ This repository contains all the notebooks and assignments I solved as a part of
 I will add as and when I do it
 
 
-## 1st week 
+## 1st week  Image Representation & Classification
 
 1. Introduction
 
@@ -15,7 +15,7 @@ I will add as and when I do it
 3. changing background with green screen
 
 
-## 2nd week 
+## 2nd week  Convolutional Filters and Edge Detection
 
 1. Filters 
 
@@ -29,4 +29,6 @@ I will add as and when I do it
 
 3. Hough transform (line detector)
 
-4. Haar Cascades and object recognition
+4. Haar Cascades and object recognition (multiple face detection in an image )
+
+## week 3 Types of Features & Image Segmentation
